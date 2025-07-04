@@ -9,9 +9,9 @@ Welcome to the **Black Jack Game**, a lightweight web-based card game inspired b
 ## 🎮 Gameplay Overview
 
 > 🃎 The goal is simple: **Reach a total of exactly 21** by drawing cards.  
-> 🙁 Go over 21 ? **You lost!**  
-> 🏆 Hit exactly 21 ? **You win!**
-> 🔄 Want to play again? Just hit **Restart**.
+> 🙁 Go over 21 ? **You lost!**.  
+> 🏆 Hit exactly 21 ? **You win!**.
+>> Want to play again? Just hit **Restart**.
 
 ---
 
